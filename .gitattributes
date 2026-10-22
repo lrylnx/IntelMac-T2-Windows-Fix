@@ -1,0 +1,6 @@
+*.cs text eol=crlf
+*.ps1 -text
+*.py text eol=lf
+*.exe binary
+*.dll binary
+*.ini -text

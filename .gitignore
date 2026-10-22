@@ -1,0 +1,6 @@
+build/
+tests/
+reports/
+*.pdb
+*.log
+.zig*/
